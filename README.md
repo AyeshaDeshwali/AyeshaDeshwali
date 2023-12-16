@@ -6,10 +6,10 @@
 <p align="left">
 <!-- Add your social media links here -->
 </p>
-<h3 align="left"style="color:red;">Skills: HTML, CSS, Bootstrap, and JavaScript</h3>
+<h3 align="left" style="color: red;">Skills: HTML, CSS, Bootstrap, and JavaScript</h3>
+<p align="left">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8j17-rxhdZu36EVV9-YH7jf9LkEjArK10oJmcCY1X2-73bfE9LaKWg1Mevm9obvSp78&usqp=CAU" alt="" style="height: 90px; width: 290px;">
+</p>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaad0007&show_icons=true&locale=en&layout=compact" alt=""style="height: 200px;width:400px;">
-</p>
-<p align="left" >
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png" alt=""style="height: 200px; width: 500px;">
 </p>
