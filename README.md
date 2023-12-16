@@ -11,12 +11,13 @@
 <!-- Add your social media links here -->
 </p>
 
-<h3 align="left" style="color: red;">Skills: HTML, CSS, Bootstrap, and JavaScript</h3>
+### Skills: *HTML, CSS, Bootstrap, and JavaScript*
 
 <p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb8j17-rxhdZu36EVV9-YH7jf9LkEjArK10oJmcCY1X2-73bfE9LaKWg1Mevm9obvSp78&usqp=CAU" alt="" style="height: 90px; width: 290px;">
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaad0007&show_icons=true&locale=en&layout=compact" alt=""style="height: 200px;width:400px;">
+  <img src="https://miro.medium.com/v2/resize:fit:724/1*Y2udH-CKucJGcMnFlltbrQ.png" alt="" style="height: 200px; width: 400px;">
 </p>
+
