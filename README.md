@@ -12,9 +12,9 @@
 </p>
 
 <p align="left">
-  <img src="https://i.ytimg.com/vi/xV7S8BhIeBo/mqdefault.jpg" alt="" style="height: 200px; width: 400px;">
+  <img src="https://i.ytimg.com/vi/xV7S8BhIeBo/mqdefault.jpg" alt="" style="height: 200px;">
 </p>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/35374649/88078293-eb84b880-cb99-11ea-9429-bbc39fd16808.PNG" alt="" style="height: 200px; width: 400px;">
+  <img src="https://user-images.githubusercontent.com/35374649/88078293-eb84b880-cb99-11ea-9429-bbc39fd16808.PNG" alt="" style="height: 200px;">
 </p>
