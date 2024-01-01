@@ -3,16 +3,16 @@
 
 <img align="right" style="margin-left: 200px; border-radius: 10px;" alt="Your Alt Text" width="460" height="460px" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🚀 I’m currently learning **JavaScript**
+ 🚀 I’m currently learning **JavaScript**
 
-- 💬 How to reach me: ayeshadeshwali@gmail.com
+ 💬 How to reach me: ayeshadeshwali@gmail.com
 
 <p align="left">
 <!-- Add your social media links here -->
 </p>
 
 <p align="left">
-  <img src="https://i.ytimg.com/vi/xV7S8BhIeBo/mqdefault.jpg" alt="" style="height: 200px;">
+  <img src="https://i.ytimg.com/vi/xV7S8BhIeBo/mqdefault.jpg" alt="" style="height: 200px;margin-top:33px">
 </p>
 
 <p align="left">
