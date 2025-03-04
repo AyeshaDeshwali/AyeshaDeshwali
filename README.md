@@ -2,34 +2,38 @@
 <h3 align="center">I am ❤️ devoted to the art of coding.</h3>
 <br>
 
-<img align="right" style="margin-left: 200px; border-radius: 50px;width:430px;hight:430px;" alt="Your Alt Text" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <img style="border-radius: 50px; max-width: 100%; height: auto;" alt="Coding GIF" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
+</div>
 
-HTML   👉             ███████████████████░░░   85.03 %
+<br>
 
-CSS    👉             ██████████████████░░░░   80.03 %
+<h2>My Skills 🚀</h2>
+<div style="max-width: 600px; margin: auto;">
+  <p>HTML 👉 <progress value="85.03" max="100"></progress> 85.03%</p>
+  <p>CSS 👉 <progress value="80.03" max="100"></progress> 80.03%</p>
+  <p>JavaScript 👉 <progress value="90.35" max="100"></progress> 90.35%</p>
+  <p>Node.js 👉 <progress value="80.35" max="100"></progress> 80.35%</p>
+  <p>MongoDB 👉 <progress value="75.35" max="100"></progress> 75.35%</p>
+  <p>React 👉 <progress value="70.35" max="100"></progress> 70.35%</p>
+  <p>Bootstrap 👉 <progress value="72.49" max="100"></progress> 72.49%</p>
+  <p>GitHub 👉 <progress value="75.23" max="100"></progress> 75.23%</p>
+</div>
 
-JavaScript   👉       █████████████████░░   90.35 %
+<br>
 
-NODE     👉           █████████████████░░░░░   80.35 %
+<h2>GitHub Stats 📊</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://user-images.githubusercontent.com/35374649/88078293-eb84b880-cb99-11ea-9429-bbc39fd16808.PNG" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Readme Stats" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;">
+</div>
 
-MongoDB     👉        ██████████████░░░░░░  75.35 %
+<br>
 
-React    👉           ███████████████░░░░░░   70.35 %
-
-BootStrap  👉         ████████████████░░░░   72.49 %
-
-GitHub  👉           ███████████████░░░░░░░   75.23 %
-
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/35374649/88078293-eb84b880-cb99-11ea-9429-bbc39fd16808.PNG" alt="" style="height: 200px;width:350px">
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/9d067ffd8561a5b8a1969d35532624ce5424d607a4e84f2f24c4d1b3dfdfed2d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61736875746f73682d706d69736872612673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="" style="height: 200px;width:350px">
-    </td>
-    <td>    
-      <img src="https://camo.githubusercontent.com/9c130d0b45942f3866bc65f70db7694254fc5389ef8b71cbd68c29ca022b0b8b/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d61736875746f73682d706d697368726126" alt=""  style="height: 200px;width:350px">
-    </td>
-  </tr>
-</table>
+<h2>Let's Connect 🌟</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/your-username" target="_blank">GitHub</a> |
+  <a href="mailto:youremail@example.com">Email</a>
+</p>
