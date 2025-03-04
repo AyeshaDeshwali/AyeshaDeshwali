@@ -1,7 +1,7 @@
 # Hi there, I'm Ayesha! 👋
 
 ## 💻 About Me
-I'm a passionate **MERN Stack Developer** who loves solving problems through code and building impactful projects. My goal is to keep learning and growing in the ever-evolving tech world.
+I'm a passionate **Software Developer** who loves solving problems through code and building impactful projects. I specialize in crafting dynamic and responsive web applications. My goal is to keep learning and growing in the ever-evolving tech world, while contributing to innovative solutions.
 
 ---
 
@@ -16,8 +16,8 @@ I'm a passionate **MERN Stack Developer** who loves solving problems through cod
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -41,5 +41,3 @@ I'm a passionate **MERN Stack Developer** who loves solving problems through cod
 ⭐ **Thanks for visiting my profile!** I am always open to collaborate on exciting projects. Let's build something amazing together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-
----
