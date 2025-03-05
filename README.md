@@ -25,13 +25,13 @@ I'm a passionate **Software Developer** who loves solving problems through code 
 ## 📫 Connect with me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="#">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://your-portfolio-link.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge" />
   </a>
 </div>
